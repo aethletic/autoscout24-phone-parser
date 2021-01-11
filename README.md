@@ -13,6 +13,8 @@
 
 Чтобы собрать из исходников должен быть установлен бандл `JSOUP` (встроенный) и [`jURL`](https://github.com/TsSaltan/DevelNext-jURL) (скачать/установить).
 
+Вся логика приложения находистя в [этом](https://github.com/aethletic/autoscout24-phone-parser/blob/main/src/app/forms/MainForm.php) файле.
+
 ## 💾 Скачать
 
 Скачать последню версию можно в разделе [Releases](https://github.com/aethletic/autoscout24-phone-parser/releases).
@@ -26,3 +28,4 @@
 
 ## 🔑 License 
 MIT
+
