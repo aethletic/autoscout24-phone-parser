@@ -25,6 +25,7 @@
 
 * Яндекс.Кошелек (ЮMoney) - **`410015618779553`**
 * Bitcoin - **`3BJT15iiokxriGBG8JTC8VopmKSKr1bmed`**
+* [Sobe.ru](https://sobe.ru/na/chipslays)
 
 ## 🔑 License 
 MIT
